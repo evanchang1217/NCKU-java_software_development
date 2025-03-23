@@ -1,4 +1,4 @@
-#NCKU-java_software_development
+# NCKU-java_software_development
 This repository contains the final project for the 2024 NCKU Java Software Development course. The project is a Tetris game implemented in Java, featuring two gameplay modes:
 Standard Mode – The classic Tetris experience where players aim for the highest score by clearing lines.
 
